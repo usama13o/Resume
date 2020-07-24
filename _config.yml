@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
-projects_title: |
+projects_content: |
   Undergraduate Dissertation
   Designed a Deep Learning framework to segment a pathology from a set of Radio-graphs.
   • Devised an architecture to test the performance of Fully Connected Networks in various setups
