@@ -24,9 +24,9 @@ linkedin_username: usamazidan
 # about_title: About Me
 about_profile_image: im.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Usama and I'm a graduate of the university of Nottingham UK. As well as administrating systems I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
+  Hi, my name's Usama and I'm a graduate of the university of Nottingham UK. I have worked at a number of projects gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Java/Kotlin</mark> and <mark>Dart</mark>
 
 # Projects Section
 # projects_title: Projects
