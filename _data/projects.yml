@@ -1,28 +1,24 @@
 - layout: top-middle
   name: Pneumerthorx Segmentation
-  link: https://github.com/usama13o/Penumothroax-Semgntatoin---Undergrad-Dissertation
+  # link: https://github.com/usama13o/Penumothroax-Semgntatoin---Undergrad-Dissertation
   github: usama13o/Penumothroax-Semgntatoin---Undergrad-Dissertation
   quote: >
     A pipeline implementation is explored that tries to enhance the accuracy of Deep Learning models in the detection and segmentation of pneumothorax from a set of chest radiographs.
   description: |
     By cascading a CNN and a U-Net, we ensure that the CNN will filter out all the cases with no pathology, i.e.’Normal’ cases, leaving the U-Net (trained on positive cases only) to focus on arranging a set of filters for the separation of pathology from the infected lungs. The models are cross validated on the same data to ensure consistency. The proposed method demonstrates higher accuracy in both segmenting and detecting the pathology. By implementing it with more complex architectures and integrating in the domain knowledge of radiologists, this methods can be applied in conjunction with other applications to rapidly triage and prioritise cases for the presence of anomalies.
+    The reason I chose this project is because of my great interest in machine learning algorithms and their impact. I wanted to explore theses algorithms and learn more about them and what better cause to do that for than the betterment of human lives.
 
 - layout: top-middle
   name: Mobile-Health-Game
-  link: www.itsgoingto.be
-  github: sproogen/itsgoingto.be
+  # link: www.itsgoingto.be
+  github: https://github.com/Tahmid79/Mobile-Health-Game
   quote: >
-    itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-    can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+   A Health game developed to spread awareness about epilepsy. 
   description: |
-    The API for this site has been build using <mark>Symfony</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-    I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-    a suite of unit and API tests for the backend and unit tests for the front end.
+    A project initiated to create a mobile game with the main purpose of spreading awareness of epilepsy to the general public and do so in a way that is as engaging and effective as possible. The project specifies that a full release game will be developed. The game will involve different gaming genres to teach the user about various aspects and types of epilepsy in both direct and subtle ways for learning to be as enjoyable and effective as possible.
 
-    I have been using this project as a way to increase many of my skills and also learn new things. I have particually
-    enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-
-    Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+    I was tasked as the project manager for a team of 4 members. I learned a lot from this experience from managing people to conflict resolution. The project spaned a whole academic year (9 months) throughout which we gathered requirements from the client, presented our ideas, and proceeded to develop based on the chosen pathway. There was a lot to learn here, delegating tasks was something I had to develop to ensure that we are on track to finish on time. Overall, just like any other project, our group project included a lot of ups and downs. The ups improved our overall self-confidence in our knowledge, while the Downs maximized the learning experiences we gained.  
+    Little experiences encountered throughout the process helped us rethink our decisions, improve our skill sets, and gain more knowledge and professionalism. 
 
 # - name: Forecastr
 #   link: www.forecastr.co.uk
