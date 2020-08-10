@@ -1,5 +1,5 @@
 # Site
-repository: usama13o    /resume-theme
+repository: usama13o/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
@@ -27,6 +27,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Usama and I'm a graduate of the university of Nottingham UK. I have worked at a number of projects gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Python</mark>, <mark>Java/Kotlin</mark>, <mark>Dart</mark>, <mark>C/C#</mark>, and Full stack Web Devlopment
+
+  My experiences that I had so far gives me an edge to others. I have been exposed to different environments and dealt with different various tasks. The knowledge that I gained, whether in dealing with people or executing tasks, makes me different, my background makes me different, and my expertise in the field makes me different. All of this allows me to provide a package of team working and problem solving that I believe is unique in its own. 
+
 
 # Projects Section
 # projects_title: Projects
