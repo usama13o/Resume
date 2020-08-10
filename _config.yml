@@ -47,14 +47,10 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+# sass:
+#   style: compressed
