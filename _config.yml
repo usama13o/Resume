@@ -30,13 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
-projects_content: |
-  Undergraduate Dissertation
-  Designed a Deep Learning framework to segment a pathology from a set of Radio-graphs.
-  • Devised an architecture to test the performance of Fully Connected Networks in various setups
-  • Investigated relevant approaches in the literature
-  • Attained the skills required to work solely on a project while keeping up with the deadlines
-  Languages and Technologies  Python, FCNs, Numpy, Scikit-learn, Scrum
+
 # Experience Section
 # experience_title: Experience
 
