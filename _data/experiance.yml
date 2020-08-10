@@ -1,0 +1,34 @@
+- layout: left
+  company: University of Nottingham
+  # link: Link to company (eg. https://google.com)(optional)
+  job_title: Research Intern
+  dates: June 2019 - August 2019
+  quote: >
+    Developed deep learning model capable of diagnosing chest radio-graphs
+
+  description: | # this will include new lines to allow paragraphs
+    Designed a Deep Learning model capable of diagnosing Chest Radio-graphs to potentially help in aiding early
+    recognition of pneumothoraces that are usually diagnosed by a radiologist on a Chest X-ray and can sometimes
+    be very difficult to confirm.
+    • Analyzed data-sets to be tested by looking at previous multi-classification multi-label papers
+    • Researched recent model architectures to design, implement , and test performance on the data-sets
+    • Implemented a series of models to compare their performance using different performance techniques
+
+    Languages and Technologies : <mark>Python (Pytorch)</mark>, <mark>FastAi</mark>, <mark>CNNs</mark>.
+
+- layout: right
+  company: Regalia Dev
+  # link: Link to company (eg. https://google.com)(optional)
+  job_title: Web Developer
+  dates: Dec 2017 - April 2018
+  quote: >
+    Implemented a website for a start-up to showcase their services and products
+
+  description: | # this will include new lines to allow paragraphs
+    I was part of a student-lead start-up that aimed to offer branding and identity creation to clients. During this period I invested my time in web development. I learned about the backend of 
+    WordPress and how to manages everything with PHP. From there I was able to customize its themes to the client's needs by modifying the source code and adding my own code to meet the requirements.
+    • Learned about requirement gathering in client meetings
+    • Improved communication skills by liaising with the design team about the feasibility of their designs
+    • Utilized my programming skills to tackle the challenges of responsive website implementation
+
+    languages and Technologies : <mark>HTML/CSS</mark>,<mark> PHP</mark>, <mark>JavaScript</mark>, <mark>WordPress</mark>
