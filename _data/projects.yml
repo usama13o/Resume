@@ -1,4 +1,52 @@
+
 - layout: top-middle
+  name: SwinCup - Cascaded Swin Transformer for Histological Structures Segmentation in Colorectal Cancer
+  quote: >
+    Developed a new deep learning model for segmenting abnormal gland structures from histology image data.
+  description: |
+    - Reviewed current work on similar datasets.
+    - Developed a viable prototype model based on previous architecture designs.
+    - Implemented a machine learning pipeline to validate the performance of the model on multiple datasets.
+    - Published an article summarizing the key points of the project in a peer-reviewed journal.
+    - Technologies used: <mark>Python, PyTorch/TensorFlow/Keras, NumPy, OpenCV, grid search/random search/Bayesian optimization, Slurm for workload parallelization.
+
+
+- layout: right
+  name: GNN-based Medical Image Classification
+  description: |
+    - Developed a new pipeline for applying Graph Neural Networks (GNN) to medical images.
+    - Conducted a thorough study of hyperparameters to optimize performance on multiple datasets using genetic algorithms.
+    - Implemented the GNN model using PyTorch and TensorFlow frameworks.
+    - Preprocessed medical image data using OpenCV and NumPy.
+    - Visualized results using Matplotlib and other data visualization tools.
+    - Technologies used: Pytorch Geometric, Optuna, GraphGym, Scikit-learn, Pandas.
+
+- layout: left
+  name: Remote Sensing for Mineral Exploration
+  description: |
+    - Implemented machine learning models for classifying patches and detecting minerals from satellite data.
+    - Constructed a model training pipeline using PyTorch framework.
+    - Conducted feature engineering and hyperparameter tuning to improve model performance.
+    - Preprocessed remote sensing data using rasterio and geopandas libraries.
+    - Analyzed model predictions and visualized results using Matplotlib and other data visualization tools.
+
+- layout: top-middle
+  name: A survey on artificial intelligence in histopathology image analysis
+  description: |
+    - Reviewed literature for the latest techniques.
+    - Identified common challenges and limitations in the current histopathology image analysis workflow.
+    - Analyzed the potential impact of AI on improving diagnostic accuracy, time efficiency, and patient outcomes in histopathology.
+    - Analyzed frameworks for integrating AI into the histopathology workflow, outlining key considerations and best practices for implementation.
+
+- layout: right
+  name: Continuous Authentication using sensor data
+  description: |
+    - Implemented a series of Machine Learning techniques such as Neural Networks, SVMs, and Siamese networks to authenticate users through their walking using gyroscope sensor data.
+    - Gained an understanding of one-shot learning and the ability to create ML models with scarce data.
+    - Formalized theoretical concepts in a real-world project.
+
+
+- layout: left
   name: Pneumerthorx Segmentation
   # link: https://github.com/usama13o/Penumothroax-Semgntatoin---Undergrad-Dissertation
   github: usama13o/Penumothroax-Semgntatoin---Undergrad-Dissertation

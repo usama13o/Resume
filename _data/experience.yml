@@ -1,3 +1,13 @@
+- layout: right
+  company: Birmingham City University, Birmingham
+  job_title: Visiting Lecturer
+  dates: October 2021 - Present
+  description: | 
+    - Evaluated and revised plans and course content to achieve student-centered learning. 
+    - Organized lectures around different AI and data visualization techniques.
+    - Trained a batch of students on using machine learning toolsets.
+    - Assessed different aspects of machine learning and data visualization design.
+
 - layout: left
   company: University of Nottingham Malaysia
   link: https://www.nottingham.edu.my
@@ -16,19 +26,3 @@
 
     Languages and Technologies : <mark>Python (Pytorch)</mark>, <mark>FastAi</mark>, <mark>CNNs</mark>.
 
-- layout: right
-  company: Regalia Dev
-  # link: Link to company (eg. https://google.com)(optional)
-  job_title: Web Developer
-  dates: Dec 2017 - April 2018
-  quote: >
-    Implemented a website for a start-up to showcase their services and products
-
-  description: | # this will include new lines to allow paragraphs
-    I was part of a student-lead start-up that aimed to offer branding and identity creation to clients. During this period I invested my time in web development. I learned about the backend of 
-    WordPress and how to manages everything with PHP. From there I was able to customize its themes to the client's needs by modifying the source code and adding my own code to meet the requirements.
-    • Learned about requirement gathering in client meetings
-    • Improved communication skills by liaising with the design team about the feasibility of their designs
-    • Utilized my programming skills to tackle the challenges of responsive website implementation
-
-    languages and Technologies : <mark>HTML/CSS</mark>,<mark> PHP</mark>, <mark>JavaScript</mark>, <mark>WordPress</mark>

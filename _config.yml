@@ -24,12 +24,16 @@ linkedin_username: usamazidan
 # about_title: About Me
 about_profile_image: im.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Usama and I'm a graduate of the university of Nottingham UK. I have worked at a number of projects gaining teamwork and leadership skills.
+I'm Usama, a dedicated PhD student at Birmingham City University, holding a BSc in Computer Science with AI from the University of Nottingham. With a diverse range of experiences, I've cultivated strong teamwork and leadership skills while delving into exciting projects.
 
-  I am most skilled in: <mark>Python</mark>, <mark>Java/Kotlin</mark>, <mark>Dart</mark>, <mark>C/C#</mark>, and Full stack Web Devlopment
+Proficient in a variety of programming languages, including <mark>Python</mark>, <mark>Java/Kotlin</mark>, <mark>Dart</mark>, and <mark>C/C#</mark>, I bring a versatile skill set to the table.
 
-  My experiences that I had so far gives me an edge to others. I have been exposed to different environments and dealt with different various tasks. The knowledge that I gained, whether in dealing with people or executing tasks, makes me different, my background makes me different, and my expertise in the field makes me different. All of this allows me to provide a package of team working and problem solving that I believe is unique in its own. 
+My journey so far has exposed me to diverse environments and multifaceted tasks. The knowledge I've acquired, whether through collaborative projects or tackling complex challenges, sets me apart. My unique background and expertise in the field contribute to my distinctive problem-solving and teamwork capabilities.
 
+I invite you to explore my website to learn more about me and my exceptional journey. Let's connect and discover how I can be a valuable asset to your team.
+
+# Education Section
+# educaton_title: Education
 
 # Projects Section
 # projects_title: Projects
@@ -37,17 +41,14 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experience
 
-# Education Section
-# educaton_title: Education
-
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Hiking
    - Gaming
-   - Arting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Photography
+  I enjoy hiking and exploring new places, I have been to many places in the UK and I'm looking forward to exploring more places in the future.
 
   I'm also interested in photography and videography as I like to be creative, I'm mainly enjoy landscape and abstract photography. 
   I like to showcase my work on instagram if you would like to take a look - [Usama Zidan](https://www.instagram.com/usama_zidan/).

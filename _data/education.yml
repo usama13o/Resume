@@ -1,6 +1,6 @@
 - name: Nottingham University
   dates: 2016 - 2020
-  qualification: Bsc Computer Science with Artificial Intelligence (2:1)
+  qualification: Bsc Computer Science with Artificial Intelligence 
 
   description: |
     During my degree at Nottingham University I learnt lots of key skills such as team work and project management. During the degree, I have been
@@ -15,3 +15,11 @@
     member of the Organization team of the first TEDx event on-campus, and as a member of the Elections committee in the university where I managed the implementation of a new voting system in the university. I've been extremely proactive throughout my degree, from being a 
     member of a squash team to fundraising for charities such as Islamic Relief and orphanage Foundations.
 
+- name: Birmingham City Unviversity 
+  dates: 2021 - Present
+  qualification: PhD Computing
+
+  description: |
+    I am currently a PhD student at Birmingham City University, my research is focused on appling Patch-Based Deep Learning for Enhanced computer Vision 
+    I am also a visiting lecturer at the university where I teach a module on applied AI and data visualization. 
+    I am also a member of the Data Science Research Group at the university where I am involved in various projects related to data science and machine learning.
